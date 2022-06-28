@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Book Printing
 description: Print out your book in either Hardcover or Softcover!
+
+<a href="page1.html">Page 2</a>
